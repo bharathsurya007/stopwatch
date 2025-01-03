@@ -1,0 +1,13 @@
+p{
+    color: blue;
+   font-family: "Lacquer";
+}
+a:hover{
+    color:black;
+}
+*{
+    color: red;
+}
+title{
+    color:black;
+}
